@@ -1,0 +1,5 @@
+{
+  "name": "PDF/Notes to Podcast Converter",
+  "description": "Convert PDFs or text notes into natural-sounding audio podcasts with customizable voices, speed, and pitch. Supports chapter splitting, audio playback, and download, while keeping a history of conversions.",
+  "requestFramePermissions": []
+}
